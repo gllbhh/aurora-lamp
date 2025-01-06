@@ -1,3 +1,5 @@
+![Aurora Lamp Example](lam-example.jpg)
+
 # Aurora Lamp Project
 
 A fun and educational project that combines 3D printing, laser cutting, and microcontroller programming to create a customizable lamp with vibrant LED animations! This guide walks you through the steps to assemble, customize, and program your Aurora Lamp.
